@@ -1,0 +1,23 @@
+{
+  "name": "bower-manager",
+  "version": "1.0.0",
+  "description": "bower manager library to find and copy dependencies",
+  "main": "bower-manager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jstools/bower-manager.git"
+  },
+  "keywords": [
+    "nodejs",
+    "bower"
+  ],
+  "author": "Jesús Germade <jesus@germade.es>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jstools/bower-manager/issues"
+  },
+  "homepage": "https://github.com/jstools/bower-manager"
+}

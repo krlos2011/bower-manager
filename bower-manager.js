@@ -85,7 +85,7 @@ var bower = {
                 }
             }
 
-            var found = bower.find( bowerJSON, bowerDir ),
+            var found = bower.find( bowerJSON, bowerDir, options.subset ),
                 dependenceBower, dependenceFiles;
 
             if( !found ) {
